@@ -4,3 +4,6 @@
 [submodule "vim/bundle/fugitive"]
 	path = vim/bundle/fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "vim/bundle/simple-pairs"]
+	path = vim/bundle/simple-pairs
+	url = https://github.com/vim-scripts/simple-pairs.git
