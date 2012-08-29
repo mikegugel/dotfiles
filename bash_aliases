@@ -1,3 +1,9 @@
+# Filter
+alias gvim="gvim $@ &> /dev/null"
+
+# imdb
+alias imdb-up='find ~Videos* -type f | while read -r line ; do imdb-thumbnailer -u "$line" ; done'
+
 # Todo
 alias todo='$EDITOR ~/.todo'
 
@@ -6,8 +12,10 @@ alias tlf="tail -f"
 alias ln='ln -v'
 alias mkdir='mkdir -p'
 alias ...='../..'
-alias l='ls'
+alias l='ls -CF'
+alias ls='ls --color=auto'
 alias ll='ls -al'
+alias la='ls -A'
 alias lh='ls -Alh'
 alias -g G='| grep'
 alias -g M='| less'
