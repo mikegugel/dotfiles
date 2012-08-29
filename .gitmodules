@@ -7,3 +7,6 @@
 [submodule "vim/bundle/simple-pairs"]
 	path = vim/bundle/simple-pairs
 	url = https://github.com/vim-scripts/simple-pairs.git
+[submodule "vim/bundle/minibufexpl"]
+	path = vim/bundle/minibufexpl
+	url = https://github.com/fholgado/minibufexpl.vim.git
