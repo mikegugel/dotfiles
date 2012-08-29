@@ -8,3 +8,4 @@
   mm = !git checkout master && git merge @{-1} --ff-only
 [user]
 	name = Mike Gugel
+	email = git@mikegugel.com

@@ -1,15 +1,8 @@
-thoughtbot dotfiles
+dotfiles
 ===================
 
 Install
 -------
-
-[Fork this repo](https://github.com/thoughtbot/dotfiles/fork_select) on Github.
-
-Clone your fork (replace `your-github-name` with your Github name).
-
-    git clone git@github.com:your-github-name/dotfiles.git
-    cd dotfiles
 
 Run the installer.
 
